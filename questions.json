@@ -1,0 +1,47 @@
+[
+    {
+        "question" : "Saif bhadwa hai?",
+        "choice1" : "Hai",
+        "choice2" : "Bahut bada h",
+        "choice3" : "May 2",
+        "choice4" : "Sep 22",
+        "answer" : 1
+
+    },
+    {
+        "question" : "The language of Lakshadweep. a Union Territory of India, is ?",
+        "choice1" : "Hindi",
+        "choice2" : "Tamil",
+        "choice3" : "Telugu",
+        "choice4" : "Malayalam",
+        "answer" : 4
+
+    },
+    {
+        "question" : "In which group of places the Kumbha Mela is held every twelve years ?",
+        "choice1" : "Ujjain. Purl; Prayag. Haridwar",
+        "choice2" : "Prayag. Haridwar, Ujjain,. Nasik",
+        "choice3" : "Rameshwaram. Purl, Badrinath. Dwarika",
+        "choice4" : "Chittakoot, Ujjain, Prayag,'Haridwar",
+        "answer" : 2
+
+    },
+    {
+        "question" : "Bahubali festival is related to ?",
+        "choice1" : "Islam",
+        "choice2" : "Hinduism",
+        "choice3" : "Buddhism",
+        "choice4" : "Jainism",
+        "answer" : 4
+
+    },
+    {
+        "question" : "Which day is observed as the World Standards  Day ?",
+        "choice1" : "Jun 26",
+        "choice2" : "Oct 14",
+        "choice3" : "Nov 15",
+        "choice4" : "Dec 2",
+        "answer" : 2
+
+    }
+]
